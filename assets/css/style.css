@@ -85,6 +85,7 @@ section {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+}
 
   /* Hero flex box Call to Action */
   .hero-cta {
@@ -102,7 +103,7 @@ section {
     color: #fce138;
   }
 
-}
+
 /* Hero Style End */
 
 .hero-form {
